@@ -38,27 +38,12 @@
   overflow: scroll;
 }
 
-.chatroom1 a{
+.room a{
   color: white;
   padding: 20px 20px 40px 0;
   text-decoration: none;
   display: block;
 }
-
-.chatroom2 a{
-  color: white;
-  padding: 20px 20px 40px 0;
-  text-decoration: none;
-  display: block;
-}
-
-.chatroom3 a{
-  color: white;
-  padding: 20px 20px 40px 0;
-  text-decoration: none;
-  display: block;
-}
-
 
 .chat{
   background-color: #FFFFFF;

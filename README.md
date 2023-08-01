@@ -29,8 +29,7 @@
 - has_many :messages
 
 ## room_users テーブル
-
-| Column | Type       | Options                        |
+| Column | Type       |Options                         |
 | ------ | ---------- | ------------------------------ |
 | user   | references | null: false, foreign_key: true |
 | room   | references | null: false, foreign_key: true |
